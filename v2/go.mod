@@ -1,3 +1,3 @@
-module github.com/AsafZalcman-jfrog/helloGoCompatibleTest/v2
+module github.com/jfrog-qa/helloGoCompatibleTest/v2
 
 go 1.13
