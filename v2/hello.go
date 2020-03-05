@@ -1,5 +1,5 @@
 package hello
 
 func Hello() string {
-    return "Hello from helloGoCompatibleTest"
+    return "Hello from helloGoCompatibleTest/v2"
 }
